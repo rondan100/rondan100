@@ -7,9 +7,13 @@
 
 ### Olá, bem vindo ao perfil.
 
-Meu nome é Abner, sou desenvolvedor de sistemas e apaixonado por tecnologia.
+Meu nome é Ronaldo, sou analista de sistemas.
 
 - :office_worker: Atualmente estou trabalhando como desenvolvedor pleno Java.
 - :blue_heart: Techs: Java, Spring, Node.js, JavaScript, React.js e PL SQL Oracle entre outras.
 - :books: Bacharelado em Engenharia Química - UFPE :heart:
 -  🌱 No momento estudando Node.js para criação de microserviços
+
+---
+
+  [![Github Status](https://github-readme-stats.vercel.app/api?username=rondan100&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/rondan100)
